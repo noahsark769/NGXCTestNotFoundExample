@@ -19,3 +19,4 @@ Note: Changing to "@import XCTest" does not resolve the issue.
 
 More info:
 - https://twitter.com/noahsark769/status/1275842840749199360?s=20
+- https://developer.apple.com/forums/thread/649935?answerId=614155022#614155022
