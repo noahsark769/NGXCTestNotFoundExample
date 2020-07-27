@@ -2,7 +2,6 @@
 # platform :ios, '9.0'
 
 source 'https://cdn.cocoapods.org/'
-source 'git@github.com:plangrid/ios-specs.git'
 
 deployment_target = '12.0'
 
